@@ -6,6 +6,6 @@ Author = "JabinGP"
 # 主题描述
 Des = "mdout默认会使用的一套主题，改自仿github主题，支持mathjax"
 # 仓库地址
-RepoUrl = "https://github.com/JabinGP/mdout-theme-github"
+RepoURL = "https://github.com/JabinGP/mdout-theme-github"
 # zip打包文件地址
-ZipUrl = "https://github.com/JabinGP/mdout-theme-github/archive/master.zip"
+ZipURL = "https://github.com/JabinGP/mdout-theme-github/archive/master.zip"
