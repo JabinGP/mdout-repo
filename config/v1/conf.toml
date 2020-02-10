@@ -18,3 +18,6 @@ PageMargin = 0.4
 # Windows
 # EditorPath = "E:\\Sublime Text 3\\sublime_text.exe"
 EditorPath = "code"
+
+# Git方式获取主题时调用git的路径或命令
+GitPath = "git"
