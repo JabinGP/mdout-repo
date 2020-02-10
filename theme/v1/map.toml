@@ -5,7 +5,10 @@ Name = "github"
 Author = "JabinGP" 
 # 主题描述
 Des = "mdout默认会使用的一套主题，改自仿github主题，支持mathjax"
-# 仓库地址
+# 下载方式
+DownloadType = "git"
+# DownloadType = "zip"
+# 仓库地址，对应git方式
 RepoURL = "https://github.com/JabinGP/mdout-theme-github"
-# zip打包文件地址
+# zip打包文件地址，对应zip方式
 ZipURL = "https://github.com/JabinGP/mdout-theme-github/archive/master.zip"
