@@ -1,0 +1,20 @@
+[Parmas]
+Out = ""
+Type = "pdf"
+Theme = "github"
+PageFormat = "a4"
+PageOrientation = "portrait"
+PageMargin = 0.4
+
+[Runtime]
+# Using vscode（环境变量启动）
+# EditorPath = "code" 
+# Using atom（环境变量启动）
+# EditorPath = "atom"
+# Using notepad（windows自自带记事本，环境变量启动）
+# EditorPath = "notepad"
+# 如果启动失败，可以使用任何有效编辑器的绝对路径
+# Using Sublime（在我电脑上的绝对路径，注意替换为自己电脑上的）
+# Windows
+# EditorPath = "E:\\Sublime Text 3\\sublime_text.exe"
+EditorPath = "code"
