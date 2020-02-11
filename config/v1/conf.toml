@@ -4,7 +4,7 @@ Type = "pdf"
 Theme = "github"
 PageFormat = "a4"
 PageOrientation = "portrait"
-PageMargin = 0.4
+PageMargin = "0.4"
 
 [Runtime]
 # Using vscode（环境变量启动）
