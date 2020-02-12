@@ -21,3 +21,10 @@ EditorPath = "code"
 
 # Git方式获取主题时调用git的路径或命令
 GitPath = "git"
+
+# 输出日志等级
+# "debug", "info", "error"
+# 控制台输出日志等级
+StdoutLogLevel = "info"
+# 文件记录日志等级
+FileLogLevel = "info"
